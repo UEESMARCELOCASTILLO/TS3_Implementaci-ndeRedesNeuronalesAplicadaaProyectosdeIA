@@ -1,4 +1,4 @@
 """
 Implementación de la clase NeuralNetwork desde cero usando NumPy.
 """
-# Aquí irá el código de tu clase
+# Aquí va tu código de la clase

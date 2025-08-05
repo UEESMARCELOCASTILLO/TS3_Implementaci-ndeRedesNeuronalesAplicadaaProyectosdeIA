@@ -1,4 +1,3 @@
 """
-Implementación de la clase NeuralNetwork desde cero usando NumPy.
+Funciones para cargar y escalar los datos.
 """
-# Aquí irá el código de tu clase
