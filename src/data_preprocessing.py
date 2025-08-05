@@ -1,3 +1,3 @@
 """
-Funciones para cargar y escalar los datos.
+Funciones para cargar y escalar los datos sintéticos.
 """
